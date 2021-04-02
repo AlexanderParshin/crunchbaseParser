@@ -9,7 +9,7 @@ const urlCompany = 'coingenius.ai'
 const info = crunchbaseParser(urlCompany)
 ```
 
-# Пример результата прасинга
+# Example of the result
 
 ```
 {"crunchbaseLink":"https://www.crunchbase.com/organization/coingenius",
